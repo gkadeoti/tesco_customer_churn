@@ -95,8 +95,8 @@ ipython_config.py
 __pypackages__/
 
 # Model folders
-agModels-predictChurn
-AutogluonModels
+.agModels-predictChurn
+.AutogluonModels
 
 # Celery stuff
 celerybeat-schedule
