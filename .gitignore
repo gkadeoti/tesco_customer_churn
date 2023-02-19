@@ -94,6 +94,10 @@ ipython_config.py
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
+# Model folders
+agModels-predictChurn
+AutogluonModels
+
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
