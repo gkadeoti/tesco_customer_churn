@@ -130,5 +130,5 @@ dmypy.json
 .pyre/
 
 # Model folders
-.agModels-predictChurn
-.AutogluonModels
+agModels-predictChurn
+AutogluonModels
